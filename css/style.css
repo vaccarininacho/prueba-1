@@ -3,7 +3,7 @@ h1{
     text-align: center;
     text-decoration: double;
   }
-  .titulo-principal2{
+  .titulo-principal{
     color: magenta;
     text-align: center;
     text-decoration: double;
@@ -33,6 +33,11 @@ h1{
     a:hover {
       color: #0056b3; 
     }
+    .logoigs{
+      text-align: center;
+      height: 50px;
+      width: 40px;
+    }
     
     
     .container {
@@ -56,61 +61,6 @@ h1{
       margin: 0;
       padding: 0;
     }
-    
-    .collage {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      grid-auto-rows: 300px; 
-      grid-gap: 10px; 
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
-    
-    .image-container {
-      width: 20%;
-      height: 20%; 
-      overflow: hidden; 
-      border-radius: 10px; 
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
-      flex: 0 0 45%;
-      margin-bottom: 20px;
-    }
-    
-    .image-container img {
-      width: 100%; 
-      height: auto;
-      object-fit: cover; 
-      border-radius: 10px; 
-    }
-  
-    .text-left {
-      text-align: left;
-    }
-    
-    .text-right {
-      text-align: right;
-    }
-    .collage {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
-    }
-    
-    .image-container {
-      flex: 0 0 45%;
-      margin-bottom: 20px;
-    }
-    
-    .image-container img {
-      width: 50%;
-      height: 100;
-    }
-    
-    .image-container p {
-      margin-left: 10px;
-    }
-
 .logoig{
     height: 30px;
     width: 50px;
@@ -123,4 +73,24 @@ my-6{
 .carouselExampleSlidesOnly{
     width: 50px;
     height: auto;
+}
+.my-7{
+  text-align: center;
+  text-decoration: double;
+  color: magenta;
+}
+.subtitulos{
+  text-align: center;
+  color: black;
+  background-color:pink;
+}
+.subitutlos2{
+  color: #4a0535;
+}
+.foterr{
+  text-align: right;
+}
+.carrusel-inner{
+  width: auto;
+  height: 5oopx;
 }
