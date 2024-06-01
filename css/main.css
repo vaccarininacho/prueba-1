@@ -1,0 +1,107 @@
+h1 {
+  color: magenta;
+  text-align: center;
+  text-decoration: double;
+}
+
+.titulo-principal {
+  color: magenta;
+  text-align: center;
+  text-decoration: double;
+}
+
+h2 {
+  background-color: #b4918f;
+}
+
+.navbar {
+  background-color: #007bff;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: rosybrown !important;
+}
+
+p {
+  color: #6c757d;
+}
+
+a {
+  color: #007bff;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+.logoigs {
+  text-align: center;
+  height: 50px;
+  width: 40px;
+}
+
+.container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #343a40;
+  color: #ffffff;
+}
+
+footer p {
+  color: #ffffff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.logoig {
+  height: 30px;
+  width: 50px;
+}
+
+my-6 {
+  text-align: center;
+  color: #343a40;
+  background-color: #b4918f;
+}
+
+.carouselExampleSlidesOnly {
+  width: 50px;
+  height: auto;
+}
+
+.my-7 {
+  text-align: center;
+  text-decoration: double;
+  color: magenta;
+}
+
+.subtitulos {
+  text-align: center;
+  color: black;
+  background-color: pink;
+}
+
+.subitutlos2 {
+  color: #4a0535;
+}
+
+.foterr {
+  text-align: right;
+}
+
+.carrusel-inner {
+  width: auto;
+  height: 5oopx;
+}/*# sourceMappingURL=main.css.map */
